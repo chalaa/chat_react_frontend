@@ -449,8 +449,9 @@ img.shadow {
 }
 
 .chat-panel-scroll {
-  max-height: 680px;
+  max-height: 480px;
   position: relative;
+  overflow-y: scroll;
 }
 
 .horizontal-margin-auto {
